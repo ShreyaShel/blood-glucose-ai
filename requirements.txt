@@ -1,0 +1,10 @@
+pandas
+numpy
+tensorflow
+scikit-learn
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-multipart
+matplotlib
